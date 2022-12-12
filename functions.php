@@ -253,14 +253,14 @@ add_action('wp_ajax_nopriv_load_more', 'load_more');
 */
 function topland_breadcrumbs() {
 	/* === ОПЦИИ === */
-	$text['home']     = 'Главная'; // текст ссылки "Главная"
+	$text['home']     = 'Home'; // текст ссылки "Главная"
 	$text['category'] = '%s'; // текст для страницы рубрики
-	$text['search']   = 'Результаты поиска по запросу "%s"'; // текст для страницы с результатами поиска
-	$text['tag']      = 'Записи с тегом "%s"'; // текст для страницы тега
-	$text['author']   = 'Статьи автора %s'; // текст для страницы автора
-	$text['404']      = 'Ошибка 404'; // текст для страницы 404
-	$text['page']     = 'Страница %s'; // текст 'Страница N'
-	$text['cpage']    = 'Страница комментариев %s'; // текст 'Страница комментариев N'
+	$text['search']   = 'Results of search: "%s"'; // текст для страницы с результатами поиска
+	$text['tag']      = 'Posts with tag "%s"'; // текст для страницы тега
+	$text['author']   = 'Articles by %s'; // текст для страницы автора
+	$text['404']      = 'Error 404'; // текст для страницы 404
+	$text['page']     = 'Page %s'; // текст 'Страница N'
+	$text['cpage']    = 'Comments page %s'; // текст 'Страница комментариев N'
 	$wrap_before    = '<div class="page-header__breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList">'; // открывающий тег обертки
 	$wrap_after     = '</div><!-- .breadcrumbs -->'; // закрывающий тег обертки
 	$sep            = '<span class="breadcrumbs__separator"> / </span>'; // разделитель между "крошками"
