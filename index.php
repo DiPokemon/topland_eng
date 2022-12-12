@@ -7,20 +7,20 @@
                       <div class="main-block__body">
                           <div class="main-content">
                             <div class="main-content_wrapper">
-                              <h1 class="main-title">Комплексное SEO продвижение сайтов</h1>    
-                              <div class="main_subtext">Эффективные решения для вашего бизнеса</div>
+                              <h1 class="main-title">Complex SEO promotion of sites</h1>    
+                              <div class="main_subtext">Effective solutions for your business</div>
                               <div class="main-subtitle">
-                                <div class="main-subtitle__item"><span><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Soft Star.svg" alt="img"></span>SEO продвижение</div>                              
-                                <div class="main-subtitle__item"><span><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Soft Star.svg" alt="img"></span>Создание сайтов</div>                              
-                                <div class="main-subtitle__item"><span><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Soft Star.svg" alt="img"></span>Решения для бизнеса</div>
+                                <div class="main-subtitle__item"><span><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Soft Star.svg" alt="img"></span>SEO promotion</div>                              
+                                <div class="main-subtitle__item"><span><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Soft Star.svg" alt="img"></span>Website development</div>                              
+                                <div class="main-subtitle__item"><span><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Soft Star.svg" alt="img"></span>Business Solutions</div>
                               </div>
-                              <a href="https://wa.me/79514976107" class="btn main-button_href" >Задайте вопрос в What’sApp</a>                              
+                              <a href="https://wa.me/79514976107" class="btn main-button_href">Ask a question on What'sApp</a>                              
                             </div>
                           </div>
                           <div class="main-image">
                             <div class="main-image_grid">
                               <div class="main-image__el">
-                                <div class="main-image__text_title">Для любой задачи есть решение!</div>
+                                <div class="main-image__text_title">There is a solution for every problem!</div>
                               </div>                            
                               <div class="main-image__el">
                                 <img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/img2.png" alt="img">
@@ -40,30 +40,30 @@
                     <div class="main-3columns">
                       <div class="main-3columns__item">
                           <div class="main-3columns__item_img"><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Frame 1.svg" alt="Повышение продаж"></div>
-                          <div class="main-3colums__item_text">SEO продвижение как в Ростове на Дону, так и по всей России</div>
+                          <div class="main-3colums__item_text">SEO promotion both in Rostov-on-Don and throughout Russia</div>
                       </div>
                       <div class="main-3columns__item">
                           <div class="main-3columns__item_img"><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Lightning 2.svg" alt="Веб студия в Ростове-на-Дону"></div>
-                          <div class="main-3colums__item_text">7 лет работаем в интернет-маркетинге</div>
+                          <div class="main-3colums__item_text">7 years of experience in online marketing</div>
                       </div>
                       <div class="main-3columns__item">
                           <div class="main-3columns__item_img"><img src="<?php echo get_template_directory_uri()?>/static/img/Stairs 1.svg" alt="SEO Продвижение сайтов"></div>
-                          <div class="main-3colums__item_text">Продвигаем сайты с технически<br> сложными тематиками</div>
+                          <div class="main-3colums__item_text">We promote websites with technically complex topics</div>
                       </div>                  
                     </div>
                     <div class="main-3columns_mobile slider_wrapper">
                       <div class="main-slider">
                         <div class="main-3columns__item">
                             <div class="main-3columns__item_img"><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Frame 1.svg" alt="Повышение продаж"></div>
-                            <div class="main-3colums__item_text">SEO продвижение как в Ростове на Дону, так и по всей России</div>
+                            <div class="main-3colums__item_text">SEO promotion both in Rostov-on-Don and throughout Russia</div>
                         </div>
                         <div class="main-3columns__item">
                             <div class="main-3columns__item_img"><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Lightning 2.svg" alt="Веб студия в Ростове-на-Дону"></div>
-                            <div class="main-3colums__item_text">7 лет работаем в интернет-маркетинге</div>
+                            <div class="main-3colums__item_text">7 years of experience in online marketing</div>
                         </div>
                         <div class="main-3columns__item">
                             <div class="main-3columns__item_img"><img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/Stairs 1.svg" alt="SEO Продвижение сайтов"></div>
-                            <div class="main-3colums__item_text">Продвигаем сайты с технически сложными тематиками</div>
+                            <div class="main-3colums__item_text">We promote websites with technically complex topics</div>
                         </div>  
                       </div>
                     </div>
@@ -75,7 +75,7 @@
             <section class="page__services-block services">
               <div class="services-block__container _container">
                 <div class="services-block__body">
-                  <h2 class="_h2 services-block__title_h2 section_title">Наши услуги</h2>
+                  <h2 class="_h2 services-block__title_h2 section_title">Our services</h2>
                   <div class="services-block__columns">
                     <?php
                       $args = array(              
@@ -106,19 +106,19 @@
               <div class="choice-block__container _container">
                 <div class="choice-block__body">                
                   <div class="choice-block__text">                  
-                    <div class="choice-block__title"><h2 class="_h2 choice-block__title_h2 section_title">Почему выбирают<br>нашу компанию</h2></div>   
-                    <div class="choice-block__title"><h2 class="_h2 choice-block__title_h2-mobile section_title ">Почему выбирают нашу компанию</h2></div>                 
-                    <div class="choice-block__subtitle">Миссия нашего агентства - стремительно продвигать ваш бизнес в гору, брать новые высоты вместе с Вами и находить эффективные решения</div>
-                    <div class="choice-block__subtitle">Наша философия - стать надежным партнером для Вас и вашей компании в области интернет-маркетинга</div>
-                    <div class="choice-block__subtitle"><strong>Наши ценности</strong></div>
+                    <div class="choice-block__title"><h2 class="_h2 choice-block__title_h2 section_title">Why choose our company</h2></div>   
+                    <div class="choice-block__title"><h2 class="_h2 choice-block__title_h2-mobile section_title ">Why choose our company</h2></div>                 
+                    <div class="choice-block__subtitle">The mission of our agency is to rapidly promote your business uphill, take new heights together with you and find effective solutions.</div>
+                    <div class="choice-block__subtitle">Our philosophy is to become a reliable partner for you and your company in the field of Internet marketing</div>
+                    <div class="choice-block__subtitle"><strong>Our values</strong></div>
                     <ul class="choice-block__list">
-                      <li class="choice-block__el">поддержание долгих партнерских  отношений</li>
-                      <li class="choice-block__el">комплексный подход к проекту</li>
-                      <li class="choice-block__el">прозрачность процесса работы</li>
-                      <li class="choice-block__el">помощь в определении задач</li>  
-                      <li class="choice-block__el">гарантия безопасности используемых методов</li>  
+                      <li class="choice-block__el">maintaining long-term partnerships</li>
+                      <li class="choice-block__el">integrated approach to the project</li>
+                      <li class="choice-block__el">transparency of the work process</li>
+                      <li class="choice-block__el">help in defining tasks</li>  
+                      <li class="choice-block__el">guarantee of the safety of the methods used</li>  
                     </ul>
-                    <div class="choice-block__button"><a class="choice-block__href" href="/about">О компании</a></div>
+                    <div class="choice-block__button"><a class="choice-block__href" href="/about">About company</a></div>
                   </div>
                   <div class="choice-block__img">
                     <img loading="lazy" src="<?php echo get_template_directory_uri()?>/static/img/unsplash_DUmFLtMeAbQ.jpg" alt="Разработка и СЕО продвижение сайтов в Ростове-на-Дону">
@@ -131,7 +131,7 @@
               <div class="cases-block__container _container">
                 <div class="cases-block__body">
                   <div class="cases-block__title">
-                    <h2 class="_h2 cases-block__title_h2 section_title">SEO кейсы</h2>
+                    <h2 class="_h2 cases-block__title_h2 section_title">SEO cases</h2>
                   </div>
                   <div class="slider_wrapper">
                       <div class="cases_slider">
@@ -177,23 +177,23 @@
             <section class="achievements_section">
               <div class="_container">
                 <div class="cases-block__title">
-                  <h2 class="_h2 achievements-block__title_h2 section_title">Наши достижения</h2>
+                  <h2 class="_h2 achievements-block__title_h2 section_title">Our achievements</h2>
                 </div>
 
                 <div class="achievements_wrapper">
                   <div class="achievements_left">
                     <ul>
-                      <li>С помощью SEO выводим сайты на показатели до 70-90% собранных коммерческих ключевых запросов в ТОП-10</li>
-                      <li>Наполняем смыслом маркетинговые стратегии</li>
-                      <li>Повышаем продажи с сайтов наших клиентов в 3 раза</li>
+                      <li>With the help of SEO, we bring sites up to 70-90% of the collected commercial key queries in the TOP-10</li>
+                      <li>Making sense of marketing strategies</li>
+                      <li>We increase sales from our clients' websites by 3 times</li>
                     </ul>
                   </div>
                   <div class="achievements_right">
                     <ul>
-                      <li>Постоянно контролируем  качество и сроки выполняемых работ</li>
-                      <li>Повышаем  доверие к Вашему бренду</li>
-                      <li>Улучшаем  техническое и информационное состояние сайта</li>
-                      <li>Работаем с технически сложными тематиками</li>
+                      <li>We constantly control the quality and timing of work performed</li>
+                      <li>We increase trust in your brand</li>
+                      <li>We improve the technical and informational state of the site</li>
+                      <li>We work with technically complex topics</li>
                     </ul>
                   </div>
                 </div>
@@ -207,7 +207,7 @@
                 <div class="reviews-block__body">                
                 <div class="triple_stars revies_triple_stars"><img loading="lazy" class="triple-stars" src="<?php echo get_template_directory_uri()?>/static/img/triple_stars.svg" alt="img"></div>
                   <div class="reviews-block__title">
-                    <h2 class="_h2 reviews-block__title_h2 section_title">Отзывы клиентов</h2>
+                    <h2 class="_h2 reviews-block__title_h2 section_title">Customer Reviews</h2>
                   </div>
                   <div class="main_block__wrapper">
                     <div class="slider_wrapper">
@@ -270,9 +270,9 @@
                             </div>
                             <div class="service-selection__content">         
                                 <div class="service-selection__title">
-                                    <h2 class="_h2 service-selection__title_h2 section_title">Не знаете какую услугу выбрать?</h2>
+                                    <h2 class="_h2 service-selection__title_h2 section_title">Don't know which service to choose?</h2>
                                 </div>
-                                <div class="service-selection__subtitle toplend">Напишите нам. Мы подскажем какая услуга принесет вашей компании больше прибыли</div>
+                                <div class="service-selection__subtitle toplend">Write to us. We will tell you what service will bring your company more profit</div>
                                 <div class="page_contacts-form contact_form-grid">
                                     <?php echo do_shortcode('[contact-form-7 id="1968" title="Контактная форма 1"]'); ?>
                                 </div>
@@ -292,7 +292,7 @@
               <div class="useful-articles__container _container">
                 <div class="useful-articles__body">
                   <div class="useful-articles__title">
-                    <h2 class="_h2 useful-articles__title_h2 section_title">Полезные статьи</h2>
+                    <h2 class="_h2 useful-articles__title_h2 section_title">Useful articles</h2>
                   </div>
                   <div class="useful-articles__columns articles">
                     <?php $length = 0 ?>
@@ -324,7 +324,7 @@
                         wp_reset_query();
                     ?>  
                   </div>
-                  <div class="useful-articles__button"><a class="useful-articles__href" href="/category/blog">Все статьи</a></div>
+                  <div class="useful-articles__button"><a class="useful-articles__href" href="/category/blog">All articles</a></div>
                 </div>
               </div>
             </section>
@@ -338,7 +338,7 @@
                   
                   <div class="question-content">
                      <div class="question__title">
-                       <h2 class="_h2 question__title_h2 section_title">Вопрос/Ответ</h2>
+                       <h2 class="_h2 question__title_h2 section_title">Questions and answers</h2>
                      </div>
                      <div class="main_block__wrapper">
                        <div itemscope itemtype="https://schema.org/FAQPage" class="accordion faq_accordion" id="faq_accordion">
@@ -383,39 +383,36 @@
                           </div> -->
                         
                           <input type="checkbox" name="chacor" id="chacor5" />
-                          <label for="chacor5">Что такое SEO?</label>
+                          <label for="chacor5">What is SEO?</label>
                           <div class="acor-body">
-                              <p>Seo (Search Engine Optimization) —  это совокупность работ, 
-                                направленных на внутреннюю и внешнюю  оптимизацию, за счет чего  
-                                происходит продвижение  сайта в ТОП-10 поисковой выдачи Яндекс или Google 
-                                по целевым запросам пользователей. ТОПом считается первая страница поисковика. 
-                                Поднять сайт в ТОП-10 — главная цель Seo-специалистов.</p>
+                              <p>Seo (Search Engine Optimization) is a set of works aimed at internal and external optimization, 
+                                due to which the site is promoted in the TOP-10 of Yandex or Google search results for targeted user 
+                                queries. TOP is the first page of a search engine. Raising the site in the TOP-10 is the main goal of 
+                                Seo-specialists.</p>
                           </div>
 
                           <input type="checkbox" name="chacor" id="chacor6" />
-                          <label for="chacor6">Когда будет результат от SEO?</label>
+                          <label for="chacor6">When will the result from SEO?</label>
                           <div class="acor-body">
-                              <p>После проведение работ с сайтом поисковикам нужно время, чтобы его проиндексировать.
-                                 Поисковые запросы со временем начинают ранжироваться все выше и выше,
-                                  пока не попадут в  ТОП-10 позиций. 
-                                  Этот временной интервал всегда разный – в среднем от 2 до 6 месяцев.</p>
+                              <p>After the work with the site, search engines need time to index it. Search queries start to rank higher 
+                                and higher over time until they get into the TOP-10 positions. This time interval is always different - 
+                                on average from 2 to 6 months.</p>
                           </div>
 
                           <input type="checkbox" name="chacor" id="chacor7" />
-                          <label for="chacor7">Какие гарантии вы можете  предоставить?</label>
+                          <label for="chacor7">What guarantees can you provide?</label>
                           <div class="acor-body">
-                              <p>С каждым клиентом мы заключаем официальный договор. С помощью Seo  
-                                выведем Ваш сайт на показатели  70-90% собранных коммерческих ключевых 
-                                запросов в ТОП-10 по Ростову на Дону, а также всей России. Предоставим 
-                                подробную отчетность на каждом из этапов проделываемых работ. Вы можете 
-                                ознакомится с результаты наших успешных проектов  в разделе кейсы.</p>
+                              <p>We conclude a formal contract with each client. With the help of Seo, we will bring your site to the 
+                                indicators of 70-90% of the collected commercial key queries in the TOP-10 in Rostov-on-Don, as well 
+                                as throughout Russia. We will provide detailed reporting at each stage of the work being done. You can 
+                                see the results of our successful projects in the case studies section.</p>
                           </div>
 
                           <input type="checkbox" name="chacor" id="chacor8" />
-                          <label for="chacor8">Вы работаете только в Ростове на Дону?</label>
+                          <label for="chacor8">Do you work only in Rostov-on-Don?</label>
                           <div class="acor-body">
-                              <p>Мы предоставляем услуги Seo как в Ростове на Дону, так и по 
-                                всей России. Также вы можете заказать раскрутку за рубежом.</p>
+                              <p>We provide Seo services both in Rostov-on-Don and throughout Russia. 
+                                You can also order promotion abroad.</p>
                           </div>
                       
                       

@@ -7,7 +7,7 @@
                 <div class="logo_img"><?php the_custom_logo() ?></div>
                 <div itemprop="name" class="logo_text">TopLand</div>  
               </div>
-              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="footer__adress"><span itemprop="addressLocality">Ростов-на-Дону</span>,<br><span itemprop="streetAddress"> ул. Стабильная</span> 9</div>  
+              <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress" class="footer__adress"><span itemprop="addressLocality">Rostov-on-Don</span>,<br><span itemprop="streetAddress"> st. Stabilnaya</span> 9</div>  
             </div>
 
             <div class="footer__navigation">
@@ -28,7 +28,7 @@
             <div class="footer_right-side">
               <div class="footer__contact footer-contact">
                 <div class="footer_tel-list">
-                  <div class="footer-contact__title">Контакты:</div>
+                  <div class="footer-contact__title">Contacts:</div>
                   <div class="footer-contact__tel">       
                     <p><a itemprop="telephone" class="footer__link" href="tel:+79951359593">+7 995 135-95-93</a></p>             
                     <p><a itemprop="telephone" class="footer__link" href="tel:+79514976107">+7 951 497 61 07</a></p>
