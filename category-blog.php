@@ -47,7 +47,7 @@
                                 ?>  
                                 <?php wp_reset_postdata(); ?>
                             </div> 
-                            <div id="loadmore" style="text-align:center;"><a href="#" class="btn btn__primary" id="load-more">Смотреть еще</a></div>  
+                            <div id="loadmore" style="text-align:center;"><a href="#" class="btn btn__primary" id="load-more">View more</a></div>  
                         </div>
                     </div>
                 </section>

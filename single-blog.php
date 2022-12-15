@@ -34,8 +34,8 @@
             <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
                 <link itemprop="url" href="https://topland-rnd.ru/">
                 <meta itemprop="name" content="TopLand">
-                <meta itemprop="description" content="Маркетинговое агентство в Ростове-на-Дону">
-                <meta itemprop="address" content="Ростов-на-Дону, ул. Стабильная 9">
+                <meta itemprop="description" content="Marketing agency in Rostovon-Don">
+                <meta itemprop="address" content="Rostov-on-Don, st. Stabilnaya 9">
                 <meta itemprop="telephone" content="+79934536307">
                 <div itemprop="logo" itemscope itemtype="https://www.schema.org/ImageObject">
                     <link itemprop="url" href="https://topland-rnd.ru/wp-content/uploads/2022/10/logo_min.png">

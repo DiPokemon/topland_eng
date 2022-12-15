@@ -14,7 +14,7 @@ $tariffs_text    = get_field("tariffs_text", $term);
                 <section section="page__service-offer">
                     <div class="tariffs-block__container">
                         <div class="tariffs-block__title">
-                            <h2 class="_h2">Тарифы</h2>
+                            <h2 class="_h2">Tariffs</h2>
                         </div>
                         <?php if (!empty($tariffs_text)): ?>
                             <div class="tariffs_text service_text-block">
@@ -84,7 +84,7 @@ $tariffs_text    = get_field("tariffs_text", $term);
                     <div class="cases-block__container">
                         <div class="cases-block__body">
                             <div class="cases-block__title">
-                                <h2 class="_h2">Кейсы</h2>
+                                <h2 class="_h2">Cases</h2>
                             </div>
                             <?php if (!empty($cases_text)): ?>
                                 <div class="cases_text service_text-block">
@@ -147,9 +147,9 @@ $tariffs_text    = get_field("tariffs_text", $term);
                             </div>
                             <div class="service-selection__content">         
                                 <div class="service-selection__title">
-                                    <h2 class="_h2 service-selection__title_h2 section_title">Не знаете какую услугу выбрать?</h2>
+                                    <h2 class="_h2 service-selection__title_h2 section_title">Don't know which service to choose?</h2>
                                 </div>
-                                <div class="service-selection__subtitle toplend">Напишите нам. Мы подскажем какая услуга принесет вашей компании больше прибыли</div>
+                                <div class="service-selection__subtitle toplend">Write to us. We will tell you what service will bring your company more profit</div>
                                 <div class="page_contacts-form contact_form-grid">
                                     <?php echo do_shortcode('[contact-form-7 id="1968" title="Контактная форма 1"]'); ?>
                                 </div>

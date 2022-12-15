@@ -13,15 +13,15 @@
                 <div class="contacts_item">
                     <div class="contacts_item-icon"></div>
                     <div class="contacts_item-body">
-                        <span class="contacts_item-title">Адрес</span>
-                        <span class="contacts_item-text">Ростов-на-Дону,<br>ул. Стабильная 9</span>
+                        <span class="contacts_item-title">Address</span>
+                        <span class="contacts_item-text">Rostov-on-Don,<br>st. Stabilnaya 9</span>
                     </div>
                 </div>
 
                 <div class="contacts_item">
                     <div class="contacts_item-icon"></div>
                     <div class="contacts_item-body">
-                        <span class="contacts_item-title">Телефон</span>
+                        <span class="contacts_item-title">Telephone</span>
                         <span class="contacts_item-text">
                             <a href="tel:+79951359593">+7 995 135-95-93</a>
                             <a href="tel:+79514976107">+7 951 497 61 07</a>
@@ -43,10 +43,10 @@
                 <div class="contacts_item">
                     <div class="contacts_item-icon"></div>
                     <div class="contacts_item-body">
-                        <span class="contacts_item-title">Время работы</span>
+                        <span class="contacts_item-title">Working hours</span>
                         <span class="contacts_item-text">
-                            Пн - Пт: с 9.00 до 19.00<br>
-                            Сб - Вс - выходной
+                            Mon - Fri: from 9.00 to 19.00<br>
+                            Sat - Sun - day off
                         </span>
                     </div>
                 </div>
