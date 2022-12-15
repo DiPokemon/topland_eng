@@ -329,6 +329,98 @@
               </div>
             </section>
 
+            <section>
+              <div class="_container">
+                <div class="tariffs_tabs__title">
+                  <h2 class="_h2 section_title">Tariffs</h2>
+                </div>
+                <div class="tabs">
+                  
+                    <input type="radio" name="tab_btn" id="tab_btn_1" value="" checked>
+                    <label for="tab_btn_1">Turnkey development</label>
+
+                    <input type="radio" name="tab_btn" id="tab_btn_2" value="">
+                    <label for="tab_btn_2">SEO</label>
+
+                    <input type="radio" name="tab_btn" id="tab_btn_3" value="">
+                    <label for="tab_btn_3">Contextual advertising</label>
+
+                    <input type="radio" name="tab_btn" id="tab_btn_4" value="">
+                    <label for="tab_btn_4">Marketplaces</label>
+                                  
+                        
+                  <div id="tab_1" class="tabs_block">
+                      <div class="tab_header">
+                        <div class="tab_title">Turnkey development</div>
+                        <div class="tab_price">from <span>50 000</span> ₽</div>
+                      </div>
+                      <div class="tab_body">
+                      We develop individual websites with a selling design, interactive functionality 
+                      for various business tasks. We thoroughly work through each of the stages of development. 
+                      We pay special attention to the testing stage before the delivery of the project.
+                      </div>
+                      <div class="tab_footer">
+                        <div class="tab_btn">
+
+                        </div>
+                      </div>
+                  </div>
+
+                  <div id="tab_2" class="tabs_block">
+                      <div class="tab_header">
+                        <div class="tab_title">SEO</div>
+                        <div class="tab_price">from <span>21 000</span> ₽</div>
+                      </div>
+                      <div class="tab_body">
+                      SEO promotion is an effective marketing tool that will bring you new customers with 
+                      proper optimization. The results will not be visible immediately, as it happens in advertising. 
+                      SEO is a long-term strategy that brings results for a longer time.
+                      </div>
+                      <div class="tab_footer">
+                        <div class="tab_btn">
+                      
+                        </div>
+                      </div>
+                  </div>
+
+                  <div id="tab_3" class="tabs_block">
+                      <div class="tab_header">
+                        <div class="tab_title">Contextual advertising</div>
+                        <div class="tab_price">from <span>25 000</span> ₽ / месяц</div>
+                      </div>
+                      <div class="tab_body">
+                      Contextual advertising is one of the most effective sources of traffic to your website. Advertising in 
+                      Yandex and Google will help you increase sales many times over, notify and attract the right contingent 
+                      of customers and develop a positive opinion about the company.
+                      </div>
+                      <div class="tab_footer">
+                        <div class="tab_btn">
+                      
+                        </div>
+                      </div>
+                  </div>
+
+                  <div id="tab_4" class="tabs_block">
+                      <div class="tab_header">
+                        <div class="tab_title">Marketplaces</div>
+                        <div class="tab_price">from <span>25 000</span> ₽</div>
+                      </div>
+                      <div class="tab_body">
+                      More and more companies appear on marketplaces in order to conduct their business there and make good profits. 
+                      But the competition is huge everywhere. Therefore, you need to understand how you can stand out and effectively 
+                      promote your product on the online platform.
+                      </div>
+                      <div class="tab_footer">
+                        <div class="tab_btn">
+                      
+                        </div>
+                      </div>
+                  </div>
+
+                </div>  
+              </div>
+            </section>
+
             <!-- <?php echo do_shortcode('[topland_cloudtag]'); ?> -->
 
             <section class="page__question question">
