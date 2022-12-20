@@ -26,7 +26,7 @@
             <!-- SchemaOrg -->
             <div itemprop="offers" itemscope itemtype="https://schema.org/AggregateOffer">
                 <meta content="<?php echo get_post_meta($post->ID, 'low_price', 1); ?>" itemprop="lowPrice"/>
-                <meta content="RUR" itemprop="priceCurrency"/>
+                <meta content="USD" itemprop="priceCurrency"/>
             </div>
         </div>
 
