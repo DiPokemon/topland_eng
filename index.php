@@ -352,7 +352,7 @@
                   <div id="tab_1" class="tabs_block">
                       <div class="tab_header">
                         <div class="tab_title">Turnkey development</div>
-                        <div class="tab_price">from <span>50 000</span> ₽</div>
+                        <div class="tab_price">from <span>50 000</span> $</div>
                       </div>
                       <div class="tab_body">
                       We develop individual websites with a selling design, interactive functionality 
@@ -369,7 +369,7 @@
                   <div id="tab_2" class="tabs_block">
                       <div class="tab_header">
                         <div class="tab_title">SEO</div>
-                        <div class="tab_price">from <span>21 000</span> ₽</div>
+                        <div class="tab_price">from <span>21 000</span> $</div>
                       </div>
                       <div class="tab_body">
                       SEO promotion is an effective marketing tool that will bring you new customers with 
@@ -386,7 +386,7 @@
                   <div id="tab_3" class="tabs_block">
                       <div class="tab_header">
                         <div class="tab_title">Contextual advertising</div>
-                        <div class="tab_price">from <span>25 000</span> ₽ / месяц</div>
+                        <div class="tab_price">from <span>25 000</span> $ / month</div>
                       </div>
                       <div class="tab_body">
                       Contextual advertising is one of the most effective sources of traffic to your website. Advertising in 
@@ -403,7 +403,7 @@
                   <div id="tab_4" class="tabs_block">
                       <div class="tab_header">
                         <div class="tab_title">Marketplaces</div>
-                        <div class="tab_price">from <span>25 000</span> ₽</div>
+                        <div class="tab_price">from <span>25 000</span> $</div>
                       </div>
                       <div class="tab_body">
                       More and more companies appear on marketplaces in order to conduct their business there and make good profits. 
